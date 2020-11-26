@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>Stopsign0008.jpg</filename>
+	<path>C:\Users\takuya\anaconda3\envs\tf114\keras-yolov3\trans_images\stop\Stopsign0008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Regulatory_sign_triangle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>29</ymin>
+			<xmax>394</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

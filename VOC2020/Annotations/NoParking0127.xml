@@ -1,0 +1,26 @@
+<annotation>
+	<folder>noparking</folder>
+	<filename>NoParking0127.jpg</filename>
+	<path>C:\Users\takuya\anaconda3\envs\tf114\keras-yolov3\trans_images\noparking\NoParking0127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Prohibition_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>144</ymin>
+			<xmax>452</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

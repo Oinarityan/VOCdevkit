@@ -1,0 +1,26 @@
+<annotation>
+	<folder>direction</folder>
+	<filename>Direction0043.jpg</filename>
+	<path>C:\Users\takuya\anaconda3\envs\tf114\keras-yolov3\trans_images\direction\Direction0043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Direction_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>4</ymin>
+			<xmax>617</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>
